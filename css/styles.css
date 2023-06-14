@@ -1,0 +1,50 @@
+@charset "utf-8";
+.container-fluid {
+	background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 1.55%,rgba(0,0,0,1.00) 1.55%,rgba(0,0,0,1.00) 1.55%,rgba(0,0,0,1.00) 1.55%,rgba(171,171,171,1.00) 25.90%,rgba(43,42,42,1.00) 49.22%,rgba(172,168,168,1.00) 70.47%,rgba(0,0,0,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 1.55%,rgba(0,0,0,1.00) 1.55%,rgba(0,0,0,1.00) 1.55%,rgba(0,0,0,1.00) 1.55%,rgba(171,171,171,1.00) 25.90%,rgba(43,42,42,1.00) 49.22%,rgba(172,168,168,1.00) 70.47%,rgba(0,0,0,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 1.55%,rgba(0,0,0,1.00) 1.55%,rgba(0,0,0,1.00) 1.55%,rgba(0,0,0,1.00) 1.55%,rgba(171,171,171,1.00) 25.90%,rgba(43,42,42,1.00) 49.22%,rgba(172,168,168,1.00) 70.47%,rgba(0,0,0,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 1.55%,rgba(0,0,0,1.00) 1.55%,rgba(0,0,0,1.00) 1.55%,rgba(0,0,0,1.00) 1.55%,rgba(171,171,171,1.00) 25.90%,rgba(43,42,42,1.00) 49.22%,rgba(172,168,168,1.00) 70.47%,rgba(0,0,0,1.00) 100%);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+	background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(255,255,255,1.00) 0%,rgba(0,0,0,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(255,255,255,1.00) 0%,rgba(0,0,0,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(255,255,255,1.00) 0%,rgba(0,0,0,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0%,rgba(255,255,255,1.00) 0%,rgba(0,0,0,1.00) 100%);
+	color: #928F8F;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+	color: #FCFBFB;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+	background-color: #000000;
+	color: #FBD200;
+}
+#accordion1 .card #headingOne1 {
+	background-color: #000000;
+	color: #FCEB00;
+}
+#headingOne1 .mb-0 a {
+	color: #FDDC01;
+}
+#headingTwo1 .mb-0 .collapsed {
+	color: #FFB600;
+}
+#headingThree1 .mb-0 .collapsed {
+	color: #FDA500;
+}
+.container-fluid .container footer {
+	color: #FFFFFF;
+}
+
+
+
+
+#headingTwo1 .mb-0 .collapsed {
+	background-color: #000000;
+}
+#accordion1 .card #headingTwo1 {
+	background-color: #050505;
+}
+#accordion1 .card #headingThree1 {
+	background-color: #000000;
+}
